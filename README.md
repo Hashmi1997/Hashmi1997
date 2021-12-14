@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Asad Ali Hashmi
 - 👀 I’m interested in Freelancing
-- 🌱 I’m currently learning Data Science with Python, Full Stack Deveelopment, 
+- 🌱 I’m currently learning Linux, Networking, JavaScript, My Sql/Post Gre, Power BI and Basic Data Science with Python, Full Stack Development, 
 - 💞️ I’m looking to collaborate on Entry Level Projects
 - 📫 How to reach me asad.hashmi2009@gmail.com
 
