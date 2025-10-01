@@ -1,7 +1,7 @@
 <!-- Profile Banner (Optional - Replace with your own image if you want) -->
 ![banner](https://user-images.githubusercontent.com/74038190/216154632-24ef2f35-7a06-4b7e-a3e6-68af6a80b274.png)
 
-# 👋 Hey there, I’m **Asad Ali Hashmi**  
+## 👋 Hey there, I’m **Asad Ali Hashmi**  
 
 🌍 **Full-Stack Developer | IT Support & Cloud Enthusiast | Problem Solver**  
 💻 Passionate about building **scalable web solutions** and solving real-world problems through code.  
@@ -45,7 +45,25 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 
 ---
+## 🌐 Languages I’m Learning  
 
+<p align="left">
+  <!-- German -->
+  🇩🇪 <img src="https://img.shields.io/badge/German-A2/B1%20in%20Progress-black?style=for-the-badge&logo=google-translate&logoColor=white" alt="German"/>
+  
+=
+  <!-- Mandarin -->
+  🇨🇳 <img src="https://img.shields.io/badge/Mandarin-HSK%203%20in%20Progress-black?style=for-the-badge&logo=google-translate&logoColor=white" alt="Mandarin"/>
+  
+  <!-- Urdu -->
+  <img src="https://img.shields.io/badge/🇵🇰%20Urdu-Native%20Proficiency-green?style=for-the-badge" alt="Urdu"/> 
+  
+  <!-- English -->
+  <img src="https://img.shields.io/badge/🇬🇧%20English-C1%20(Advanced)-blue?style=for-the-badge" alt="English"/>
+</p>
+
+
+---
 ## 📊 GitHub Stats  
 
 <p align="center">
@@ -61,12 +79,28 @@
 
 ## 🤝 Let’s Connect  
 
-- 📧 Email: **asad.hashmi2009@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/)
-- 💬 [WhatsApp](https://wa.me/923350248997) ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)  
-- 🟢 [WeChat](https://wechat.com/) ![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)
-- 🌍 Always eager to collaborate on **open-source projects, real-world apps, and cloud engineering solutions**  
+<p align="left">
+  <a href="mailto:asad.hashmi2009@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-id" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://wa.me/923350248997" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://raw.githubusercontent.com/Hashmi1997/Hashmi1997/main/assets/wechat-qr.png" target="_blank">
+    <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat"/>
+  </a>
+</p>
 
 ---
 
-🔥 *Always exploring how emerging technologies can be integrated into interconnected systems to solve real-world problems.*  
+### 🌍 Collaboration & Learning  
+
+- Always eager to collaborate on **open-source projects, real-world apps, and cloud engineering solutions**  
+- 🔥 Constantly exploring how **emerging technologies** can be integrated into **interconnected systems** to solve **real-world problems**  
+
+---
+
+ 
