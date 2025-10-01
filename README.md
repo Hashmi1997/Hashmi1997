@@ -10,10 +10,10 @@
 
 ## 🚀 About Me  
 - 🔹 **Full-Stack MERN Developer** (React, Node.js, Express.js, MongoDB, MySQL, Laravel)  
-- 🏗️ Built an **Industrial Tank Level Monitoring System** (latency < 3s)  
+- 🏗️ Built an **Industrial Tank Level Live Monitoring System** (latency: ~3s)  
 - 🐍 Learning **Python** & practicing **DSA on LeetCode**  
 - ☁️ Certified in **Google IT Support** | Preparing for **AWS Cloud Practitioner**  
-- 🌍 **Open to Remote/Onsite Opportunities** (Focus: Germany & Europe)  
+- 🌍 **Open to Remote/Onsite Opportunities** (Focus: Newzealand, Germany & Europe)  
 - 🗣️ Languages: English (C1) | German (A2) | Mandarin HSK2  
 
 ---
@@ -62,7 +62,9 @@
 ## 🤝 Let’s Connect  
 
 - 📧 Email: **asad.hashmi2009@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/)  
+- 💼 [LinkedIn](https://www.linkedin.com/)
+- 💬 [WhatsApp](https://wa.me/923350248997) ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)  
+- 🟢 [WeChat](https://wechat.com/) ![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)
 - 🌍 Always eager to collaborate on **open-source projects, real-world apps, and cloud engineering solutions**  
 
 ---
