@@ -51,7 +51,6 @@
   <!-- German -->
   🇩🇪 <img src="https://img.shields.io/badge/German-A2/B1%20in%20Progress-black?style=for-the-badge&logo=google-translate&logoColor=white" alt="German"/>
   
-=
   <!-- Mandarin -->
   🇨🇳 <img src="https://img.shields.io/badge/Mandarin-HSK%203%20in%20Progress-black?style=for-the-badge&logo=google-translate&logoColor=white" alt="Mandarin"/>
   
